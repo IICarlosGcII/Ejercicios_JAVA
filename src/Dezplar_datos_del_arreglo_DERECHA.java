@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
-public class Main {
+public class Dezplar_datos_del_arreglo_DERECHA {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in); //Iniciamos el scanner para poder leer y guardar datos...
         int[] arreglo = new int[10]; //Declaramos es tamaño del arreglo...
